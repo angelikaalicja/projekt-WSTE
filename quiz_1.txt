@@ -1,30 +1,30 @@
 Pytanie 1.: "cin" to:
 a. Obiekt
 b. Klasa
-c. Przestrzeñ nazw
+c. Przestrzen nazw
 d. Funkcja
 a
-Pytanie 2.: Sk³adniki struktury domyœlnie opatrzone s¹ etykiet¹:
+Pytanie 2.: Skladniki struktury domyslnie opatrzone sa etykieta:
 a. protected
 b. public
 c. private
-d. ¯adn¹ z powy¿szych
+d. zadna z powyzszych
 b
-Pytanie 3.: Ile argumentów mo¿e przyjmowaæ destruktor klasy?
+Pytanie 3.: Ile argumentow moze przyjmowaæ destruktor klasy?
 a. 0
 b. 1
 c. 2
-d. dowoln¹ liczbê
+d. dowolna liczbe
 a
-Pytanie 4.: Wyra¿enie a.b oznacza:
-a. sk³adowa b obiektu a
-b. sk³adowa b obiektu wskazywanego przez wskaŸnik a
-c. sk³adowa a obiektu b
-d. sk³adowa a klasy b
+Pytanie 4.: Wyrazenie a.b oznacza:
+a. skladowa b obiektu a
+b. skladowa b obiektu wskazywanego przez wskaznik a
+c. skladowa a obiektu b
+d. skladowa a klasy b
 a
 Pytanie 5.: STL to:
 a. System template library
 b. Standard template library  ----
 c. Standard topics library
-d. ¿adne z powy¿szych
+d. zadne z powyzszych
 b

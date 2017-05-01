@@ -1,28 +1,28 @@
-Pytanie 1.: Klasa dziedzicz¹ca nie dziedziczy z klasy bazowej:
-a. konstruktorów i destruktora
-b. prze³adowanych operatorów
-c. funkcji zaprzyjaŸnionych
-d. ka¿da z powy¿szych odpowiedzi
+Pytanie 1.: Klasa dziedziczaca nie dziedziczy z klasy bazowej:
+a. konstruktorow i destruktora
+b. przeladowanych operatorow
+c. funkcji zaprzyjaznionych
+d. kazda z powyzszych odpowiedzi
 d
 Pytanie 2.: const int * wsk to:
-a. wskaŸnik do sta³ego obiektu
-b. sta³y wskaŸnik
-c. wskaŸnik sta³y do obiketu sta³ego
-d. ¿adna z powy¿szych odpowiedzi
+a. wskaznik do stalego obiektu
+b. staly wskaznik
+c. wskaznik staly do obiketu stalego
+d. zadna z powyzszych odpowiedzi
 a
-Pytanie 3.: Które z poni¿szych wyra¿eñ jest nieprawdi³ow¹ dyrektyw¹ preprocesora?
+Pytanie 3.: Ktore z ponizszych wyrazeñ jest nieprawdilowa dyrektywa preprocesora?
 a. #ifdef
 b. #ifundef  ---
 c. #endif
 d. #elif
 b
-Pytanie 4.: Które z poni¿szych nie jest standardowym wyj¹tkiem w C++?
+Pytanie 4.: Ktore z ponizszych nie jest standardowym wyjatkiem w C++?
 a. std::bad_creat  ----
 b. std::bad_alloc
 c. std::bad_cast
 d. std::bad_typeid
 a
-Pytanie 5.: class child: public parent1, public parent2 { } to przyk³ad:
+Pytanie 5.: class child: public parent1, public parent2 { } to przyklad:
 a. dziedziczenia polimorficznego
 b. dziedziczenia wirtualnego
 c. dziedziczenia hierarhicznego
