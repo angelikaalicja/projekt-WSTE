@@ -24,7 +24,7 @@ d. skladowa a klasy b
 a
 Pytanie 5.: STL to:
 a. System template library
-b. Standard template library  ----
+b. Standard template library
 c. Standard topics library
 d. zadne z powyzszych
 b

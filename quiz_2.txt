@@ -1,24 +1,24 @@
 Pytanie 1.: Skladniki klasy opatrzone etykieta protected sa dostepne w:
 a. danej klasie
-b. danej klasie i w klasach dziedziczacych  ---
+b. danej klasie i w klasach dziedziczacych
 c. wszedzie poza klasa
 d. zadne z powyzszych
 b
 Pytanie 2.: Ktore z ponizszych nie jest slowem kluczowym w C++?
 a. volatile
 b. friend
-c. extends  ------
+c. extends
 d. this
 c
 Pytanie 3.: ____________ to funkcja skladowa, ktora powinna zostac ponownie zdefiniowana w klasach pochodnych.
 a. funkcja zaprzyjazniona
 b. funkcja statyczna
-c. funkcja wirtualna  ----
+c. funkcja wirtualna
 d. funkcja stala
 c
 Pytanie 4.: W C++ do rzucania wyjatkow uzywa sie slowa: 
 a. throws
-b. throw ---
+b. throw
 c. threw
 d. thrown
 b
@@ -26,5 +26,5 @@ Pytanie 5.: Ktory operator jest operatorem potegowania w C++?
 a. ^
 b. **
 c. ^^
-d. zaden z powyzszych   -----
+d. zaden z powyzszych
 d

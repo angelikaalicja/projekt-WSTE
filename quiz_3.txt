@@ -12,12 +12,12 @@ d. zadna z powyzszych odpowiedzi
 a
 Pytanie 3.: Ktore z ponizszych wyrazeñ jest nieprawdilowa dyrektywa preprocesora?
 a. #ifdef
-b. #ifundef  ---
+b. #ifundef
 c. #endif
 d. #elif
 b
 Pytanie 4.: Ktore z ponizszych nie jest standardowym wyjatkiem w C++?
-a. std::bad_creat  ----
+a. std::bad_creat
 b. std::bad_alloc
 c. std::bad_cast
 d. std::bad_typeid
@@ -26,5 +26,5 @@ Pytanie 5.: class child: public parent1, public parent2 { } to przyklad:
 a. dziedziczenia polimorficznego
 b. dziedziczenia wirtualnego
 c. dziedziczenia hierarhicznego
-d. dziedziczenia wielobazowego -----
+d. dziedziczenia wielobazowego
 d
