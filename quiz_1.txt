@@ -1,30 +1,30 @@
-Pytanie 1:
-a.
-b.
-c.
-d.
-c
-Pytanie 2:
-a.
-b.
-c.
-d.
+Pytanie 1.: "cin" to:
+a. Obiekt
+b. Klasa
+c. Przestrzeñ nazw
+d. Funkcja
 a
-Pytanie 3:
-a.
-b.
-c.
-d.
-c
-Pytanie 4:
-a.
-b.
-c.
-d.
-c
-Pytanie 5:
-a.
-b.
-c.
-d.
-c
+Pytanie 2.: Sk³adniki struktury domyœlnie opatrzone s¹ etykiet¹:
+a. protected
+b. public
+c. private
+d. ¯adn¹ z powy¿szych
+b
+Pytanie 3.: Ile argumentów mo¿e przyjmowaæ destruktor klasy?
+a. 0
+b. 1
+c. 2
+d. dowoln¹ liczbê
+a
+Pytanie 4.: Wyra¿enie a.b oznacza:
+a. sk³adowa b obiektu a
+b. sk³adowa b obiektu wskazywanego przez wskaŸnik a
+c. sk³adowa a obiektu b
+d. sk³adowa a klasy b
+a
+Pytanie 5.: STL to:
+a. System template library
+b. Standard template library  ----
+c. Standard topics library
+d. ¿adne z powy¿szych
+b

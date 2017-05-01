@@ -1,30 +1,30 @@
-Pytanie 1 q 2:
-a.
-b.
-c.
-d.
+Pytanie 1.: Sk³adniki klasy opatrzone etykiet¹ protected s¹ dostêpne w:
+a. danej klasie
+b. danej klasie i w klasach dziedzicz¹cych  ---
+c. wszêdzie poza klas¹
+d. ¿adne z powy¿szych
+b
+Pytanie 2.: Które z poni¿szych nie jest s³owem kluczowym w C++?
+a. volatile
+b. friend
+c. extends  ------
+d. this
 c
-Pytanie 2:
-a.
-b.
-c.
-d.
-a
-Pytanie 3:
-a.
-b.
-c.
-d.
+Pytanie 3.: ____________ to funkcja sk³adowa, która powinna zostaæ ponownie zdefiniowana w klasach pochodnych.
+a. funkcja zaprzyjaŸniona
+b. funkcja statyczna
+c. funkcja wirtualna  ----
+d. funkcja sta³a
 c
-Pytanie 4:
-a.
-b.
-c.
-d.
-c
-Pytanie 5:
-a.
-b.
-c.
-d.
-c
+Pytanie 4.: W C++ do rzucania wyj¹tków u¿ywa siê s³owa: 
+a. throws
+b. throw ---
+c. threw
+d. thrown
+b
+Pytanie 5.: Który operator jest operatorem potêgowania w C++?
+a. ^
+b. **
+c. ^^
+d. ¿aden z powy¿szych   -----
+d
