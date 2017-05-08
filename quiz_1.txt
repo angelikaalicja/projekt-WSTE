@@ -10,7 +10,7 @@ b. public
 c. private
 d. zadna z powyzszych
 b
-Pytanie 3.: Ile argumentow moze przyjmowaæ destruktor klasy?
+Pytanie 3.: Ile argumentow moze przyjmowac destruktor klasy?
 a. 0
 b. 1
 c. 2

@@ -10,7 +10,7 @@ b. staly wskaznik
 c. wskaznik staly do obiketu stalego
 d. zadna z powyzszych odpowiedzi
 a
-Pytanie 3.: Ktore z ponizszych wyrazeñ jest nieprawdilowa dyrektywa preprocesora?
+Pytanie 3.: Ktore z ponizszych wyrazen jest nieprawdilowa dyrektywa preprocesora?
 a. #ifdef
 b. #ifundef
 c. #endif
