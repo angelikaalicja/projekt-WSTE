@@ -4,6 +4,10 @@
 
 int main(int, char*[])
 {
+//    Game g;
+//    return g.play();
+
+
 	bool keepPlaying = true;
 
 	while (keepPlaying)
@@ -28,4 +32,3 @@ int main(int, char*[])
 
 	return 0;
 }
-

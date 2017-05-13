@@ -14,8 +14,8 @@ bool keepingPlaying()
 
 		std::string playAgain;
 		std::cout << "Do you want to play again or at another level? y/n"
-				<< std::endl;
-		std::cin >> playAgain;
+				<< std::endl; //setOutput();
+		std::cin >> playAgain; //getInput();
 		std::transform(playAgain.begin(), playAgain.end(), playAgain.begin(),
 				tolower);
 
