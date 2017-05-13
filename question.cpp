@@ -4,18 +4,17 @@
 #include <fstream>
 #include <algorithm>
 
-Question::Question(unsigned int questionNumber, const char* quizFile)
+Question::Question(unsigned int questionNumber, const std::string& quizFile)
     : number(questionNumber)
     , filename(quizFile)
 {
-    load();
-    ask();
+
 }
 
 void Question::load()
 {
 
-   std::fstream quiz(filename, std::ios::in);
+   std::ifstream quiz(filename.c_str());
 
    if(quiz.good()==false)  // inaczej if(!quiz)
    {
@@ -59,17 +58,12 @@ void Question::ask()
     std::cin >> userAnswer;
     std::transform(userAnswer.begin(), userAnswer.end(), userAnswer.begin(), tolower);
 
-    if(userAnswer == correctAnswer)
-      score = 1;
-    else
-      score = 0;
-
-    std::cout << "Score: " << score << "/1" << std::endl;
+    std::cout << "Score: " << (userAnswer == correctAnswer) << "/1" << std::endl;
 
 }
 
 int Question::getScore()
 {
-    return score;
+    return (userAnswer == correctAnswer);
 }
 

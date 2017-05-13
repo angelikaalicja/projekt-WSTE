@@ -1,17 +1,18 @@
 #ifndef QUIZ_H
 #define QUIZ_H
 
+#include <string>
 
 class Quiz
 {
 public:
-    Quiz(const unsigned int &quizLevel);
+    Quiz(const std::string & quizLevel);
     void play();
     void showResult();
 
 private:
-    unsigned int level;
-    const char* dataFile;
+    std::string level;
+    std::string dataFile;
     int result;
 
 };

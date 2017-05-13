@@ -7,18 +7,17 @@
 class Question
 {
 public:
-    Question(unsigned int questionNumber, const char *quizFile);
+    Question(unsigned int questionNumber, const std::string& quizFile);
     int getScore();
+    void load();
+    void ask();
 
 private:
     unsigned int number;
-    const char* filename;
+    std::string filename;
     std::string question, a, b, c, d;
     std::string correctAnswer;
     std::string userAnswer;
-    void load();
-    void ask();
-    int score;
 
 };
 
